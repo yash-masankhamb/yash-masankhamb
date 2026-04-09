@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Yash
 
-<!--
-**yash-masankhamb/yash-masankhamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at PICT  
+💻 Interested in DSA, Web Development, and Backend Systems  
+🚀 Currently learning: Data Structures & Algorithms ,Development
+📈 CodeChef: 1⭐  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Languages: C++, JavaScript  
+- Frontend: HTML, CSS, EJS, Tailwind  
+- Backend: Node.js, Express.js  
+- Database: SQL  ,MongoDB
+
+---
+
+## 📌 Projects
+- IntelliFund Advisor – Mutual fund analysis platform  
+- (More coming soon 🚀)
+
+---
+
+## 📫 Connect with me
+- Email: yashmasankhamb4@gmail.com
